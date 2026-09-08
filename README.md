@@ -7,8 +7,12 @@ CC2: Development of a Personal Portfolio Website and a Company Website.
 ### 1. [portfolio-website](./portfolio-website)
 Personal portfolio website showcasing profile, skills, experience, and projects. Built with React + Vite + TypeScript + Tailwind CSS.
 
+**Live demo:** https://cc2-nur-safitri-portfolio.vercel.app/
+
 ### 2. [company-website](./company-website)
 Company profile website for Susu Mbok Darmi, a pasteurized milk brand. Built with React + Vite + TypeScript + Tailwind CSS.
+
+**Live demo:** https://cc2-nur-safitri.vercel.app/
 
 ### 3. [leetcode-challenge](./leetcode-challenge)
 LeetCode problem solutions.
